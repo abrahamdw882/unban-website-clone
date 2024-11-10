@@ -1,6 +1,6 @@
 
 document.getElementById("joinButton").addEventListener("click", function() {
-  window.open("https://ab-webl.vercel.app", "_blank");
+  window.open("https://whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c", "_blank");
   
 
   setTimeout(function() {
